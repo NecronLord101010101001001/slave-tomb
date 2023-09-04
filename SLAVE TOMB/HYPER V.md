@@ -1,0 +1,2 @@
+На них держатся какие-либо сервера тех же десяточек, если вдруг выйдет что кто-то не может подключиться к какому-либо серверу который находится в HYPER V, то я теперь знаю как его включать
+http://wiki.44it.ru/books/obshhaya-informaciya/page/virtualnye-masiny-po-serveram-virtualizacii
