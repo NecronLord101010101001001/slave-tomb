@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "72bdf6e5d6275af5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b8a064721a8b61f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cae3f3009d76272d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf23307df54e14bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5531c023b122333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1420737aa43cab4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "885e3d5261160b5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97f2ed42e7e98ac7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e58ef69748ef8e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b157df1f895a9856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "407d359aaace69e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d21d31f899d117f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3f9d41d22ea10fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9888d447de5638cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cae3f3009d76272d",
+  "lastOpenFiles": [
+    "структуры сетей задача.md",
+    "SLAVE TOMB/сертификаты.md",
+    "SLAVE TOMB/2023-07-18.md",
+    "Подключение удалённого доступа.md",
+    "SLAVE TOMB/адреса табелей + мысли 20.07.2023.md"
+  ]
+}
